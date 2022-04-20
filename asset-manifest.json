@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FootballTopScore/static/css/main.038a7741.chunk.css",
+    "main.js": "/FootballTopScore/static/js/main.ce1f812c.chunk.js",
+    "main.js.map": "/FootballTopScore/static/js/main.ce1f812c.chunk.js.map",
+    "runtime-main.js": "/FootballTopScore/static/js/runtime-main.ef5e23e3.js",
+    "runtime-main.js.map": "/FootballTopScore/static/js/runtime-main.ef5e23e3.js.map",
+    "static/js/2.107b4026.chunk.js": "/FootballTopScore/static/js/2.107b4026.chunk.js",
+    "static/js/2.107b4026.chunk.js.map": "/FootballTopScore/static/js/2.107b4026.chunk.js.map",
+    "static/js/3.ea0d02de.chunk.js": "/FootballTopScore/static/js/3.ea0d02de.chunk.js",
+    "static/js/3.ea0d02de.chunk.js.map": "/FootballTopScore/static/js/3.ea0d02de.chunk.js.map",
+    "index.html": "/FootballTopScore/index.html",
+    "static/css/main.038a7741.chunk.css.map": "/FootballTopScore/static/css/main.038a7741.chunk.css.map",
+    "static/js/2.107b4026.chunk.js.LICENSE.txt": "/FootballTopScore/static/js/2.107b4026.chunk.js.LICENSE.txt",
+    "static/media/ajax.96ec6aa9.png": "/FootballTopScore/static/media/ajax.96ec6aa9.png",
+    "static/media/marketplace.css": "/FootballTopScore/static/media/ajaxBack3.1c0c6e93.jpg",
+    "static/media/psv.59bad68b.png": "/FootballTopScore/static/media/psv.59bad68b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef5e23e3.js",
+    "static/js/2.107b4026.chunk.js",
+    "static/css/main.038a7741.chunk.css",
+    "static/js/main.ce1f812c.chunk.js"
+  ]
+}
